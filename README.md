@@ -12,6 +12,7 @@ it all about what i learnt in coding
  ### link to live site on GitHub Pages
 
   ###copyright and license information
+  copyright 2018
   This project is licensed under the MIT License
 
 
